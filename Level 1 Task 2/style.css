@@ -1,0 +1,24 @@
+body
+{
+	background-image: url("img.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+button
+{
+	color: white;
+	background-color: green;
+	padding: 15px 32px;
+	size: 25px;
+	border-radius: 25px;
+}
+
+input[type=text] {
+	  width: 20%;
+	  padding: 12px 20px;
+	  margin: 8px 0;
+	  box-sizing: border-box;
+	  border-radius: 25px;
+	  font-size: 25px;
+	}
